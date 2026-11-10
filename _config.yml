@@ -1,0 +1,5 @@
+title: App policies
+theme: jekyll-theme-minimal
+exclude:
+  - _template
+  - README.md
