@@ -7,6 +7,7 @@ Liên hệ / Contact: thuytq@gmail.com
 | Ứng dụng / App | Chính sách / Policy |
 |---|---|
 | LumaPulse (đèn pin / flashlight) | [lumapulse/privacy](https://thuytq1001.github.io/app-policies/lumapulse/privacy/) |
+| Mê Cung Ếch / Froggy Maze (game mê cung / maze game) | [mecungech/privacy](https://thuytq1001.github.io/app-policies/mecungech/privacy/) |
 
 ## Thêm app mới
 
