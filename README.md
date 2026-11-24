@@ -8,6 +8,7 @@ Liên hệ / Contact: thuytq@gmail.com
 |---|---|
 | LumaPulse (đèn pin / flashlight) | [lumapulse/privacy](https://thuytq1001.github.io/app-policies/lumapulse/privacy/) |
 | Mê Cung Ếch / Froggy Maze (game mê cung / maze game) | [mecungech/privacy](https://thuytq1001.github.io/app-policies/mecungech/privacy) |
+| Lio English (học tiếng Anh cho bé 3–6 tuổi / English for kids 3–6) | [lioenglish/privacy](https://thuytq1001.github.io/app-policies/lioenglish/privacy) |
 
 ## Thêm app mới
 
